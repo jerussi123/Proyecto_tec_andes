@@ -1,0 +1,12 @@
+ipykernel
+numpy
+spicy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow==2.15
+pydot
+plotly
+graphviz
